@@ -51,3 +51,6 @@ Redacció d’un informe amb:
 
 ## 🔗 Accés directe a la solució
 [Clica aquí per entrar a la solució](./solució.md)
+
+
+![imatget02](img/imatget02.png)
