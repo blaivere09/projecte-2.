@@ -11,7 +11,7 @@ Resolució d’un cas pràctic de **recuperació d’accés a sistemes o comptes
 * Implementar mesures preventives i bones pràctiques.
 
  Enllaç a la solució 
-(./solucio.md)
+(./solució.md)
 
 
 
