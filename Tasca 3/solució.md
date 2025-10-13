@@ -30,6 +30,11 @@ Ja he entrat a la **màquina virtual**, però com no conec la **contrasenya de l
 ![captura4](img/capt4.png)
 
 
+## 🟠 PAS 3: Accés al Root des de GRUB
+
+- Un cop seleccionada l’opció **Advanced** al menú de GRUB, he escollit la **segona opció**, que m’ha portat a un altre menú.  
+- Des d’aquest nou menú he seleccionat l’opció **Root** per obtenir accés al sistema com a administrador.  
+
 
 
 
