@@ -41,6 +41,18 @@ Ja he entrat a la **màquina virtual**, però com no conec la **contrasenya de l
 
 
 
+## 🔵 PAS 4: Canvi de contrasenya de l’usuari
+
+Un cop entrat al sistema com a **Root**, ja podem interactuar i executar comandes.
+
+He escrit la comanda:
+
+```bash
+passwd miquel
+
+
+
+
 
 
 
