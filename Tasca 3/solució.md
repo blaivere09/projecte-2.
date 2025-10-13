@@ -61,6 +61,16 @@ passwd miquel
 ![captura8](img/capt8.png)
 
 
+## 🟣 PAS 5: Reinici i verificació de l’accés
+
+Un cop canviada la **contrasenya**:  
+
+- He reiniciat la **màquina virtual**.  
+- Durant l'arrencada, he entrat amb l'**usuari corresponent**.  
+- He comprovat que la **nova contrasenya funciona correctament**.  
+- Ara ja podem accedir al sistema i continuar amb la resta de tasques sense problemes.
+
+
 
 
 
