@@ -7,7 +7,7 @@ Després de la primera feina exitosa, us arriba un **encàrrec urgent** que obli
 Com a fase prèvia, rebreu una formació sobre la **seguretat lògica** que us permetrà tenir els coneixements necessaris per afrontar la tasca.  
 
 👥 Han arribat a la consultora un equip provinent d’un client que demana que els hi solucionem el problema.  
-💻 Tenen un portàtil amb **Zorin OS** (Linux amb entorn gràfic) que usava habitualment un directiu.  
+💻 Tenen un portàtil amb **Zorin OS** (Linux amb entorn gràfic) que usava habitualment un directiu. 
 
 ⚠️ El problema és que ha oblidat la contrasenya i és necessari poder recuperar l’accés perquè hi ha **documentació molt important** que cal recuperar.  
 
