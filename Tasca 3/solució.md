@@ -49,8 +49,9 @@ He escrit la comanda:
 
 ```bash
 passwd miquel
+```
 
-
+![captura8](img/capt8.png)
 
 
 
