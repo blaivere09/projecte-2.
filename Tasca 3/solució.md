@@ -37,6 +37,8 @@ Ja he entrat a la **màquina virtual**, però com no conec la **contrasenya de l
 
 ![captura5](img/capt5.png)
 ![captura6](img/capt6.png)
+![captura7](img/capt7.png)
+
 
 
 
