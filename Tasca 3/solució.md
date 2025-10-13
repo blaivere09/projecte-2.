@@ -26,6 +26,8 @@ Ja he entrat a la **màquina virtual**, però com no conec la **contrasenya de l
 - Això ha reiniciat la màquina i m’ha portat al **menú inicial de GRUB**.  
 - Des d’aquí he escollit l’opció **Advanced** per continuar amb els passos de recuperació.
 
+![captura3](img/capt3.png)
+
 
 
 
