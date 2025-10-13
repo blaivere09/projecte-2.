@@ -80,6 +80,8 @@ Vulnerar l'accés del **GRUB** del Linux —amb l'objectiu que només personal a
 ```bash
 sudo nano /etc/grub.d/40_custom
 
+```
+![captura10](img/capt10.png)
 
 
 
