@@ -47,11 +47,19 @@ Un cop entrat al sistema com a **Root**, ja podem interactuar i executar comande
 
 He escrit la comanda:
 
+El sistema m'ha demanat de crear una **nova contrasenya** i he escollit 
+```bash
+uruai123
+```
+ (8 caràcters).  
+Acte seguit, l'he **repetit** per confirmar el canvi.
+
 ```bash
 passwd miquel
 ```
 
 ![captura8](img/capt8.png)
+
 
 
 
