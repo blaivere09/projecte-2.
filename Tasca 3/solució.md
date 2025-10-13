@@ -73,6 +73,13 @@ Un cop canviada la **contrasenya**:
 ![captura9](img/capt9.png)
 
 
+## ⚠️ PAS 6: Accedir a la configuració del GRUB
+
+Vulnerar l'accés del **GRUB** del Linux —amb l'objectiu que només personal autoritzat hi pugui accedir— requereix tornar a editar la configuració del GRUB. Per fer-ho he obert el fitxer de personalització amb l'editor:
+
+```bash
+sudo nano /etc/grub.d/40_custom
+
 
 
 
