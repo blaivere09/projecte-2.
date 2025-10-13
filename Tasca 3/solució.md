@@ -36,6 +36,8 @@ Ja he entrat a la **màquina virtual**, però com no conec la **contrasenya de l
 - Des d’aquest nou menú he seleccionat l’opció **Root** per obtenir accés al sistema com a administrador.
 
 ![captura5](img/capt5.png)
+![captura6](img/capt6.png)
+
 
 
 
