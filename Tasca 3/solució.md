@@ -13,5 +13,8 @@ Primer he creat una **màquina virtual nova** al **VirtualBox**.
 - També hi he connectat el **disc virtual** que ens havien proporcionat per treballar-hi.  
 
 ✅ Amb això ja he pogut encendre la màquina i començar a seguir els passos per **recuperar la contrasenya**.
+
+
 ![captura2](img/capt2.png)
+
 
