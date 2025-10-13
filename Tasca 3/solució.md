@@ -18,3 +18,14 @@ Primer he creat una **màquina virtual nova** al **VirtualBox**.
 ![captura2](img/capt2.png)
 
 
+## 🟡 PAS 2: Accés al menú de GRUB
+
+Ja he entrat a la **màquina virtual**, però com no conec la **contrasenya de l’usuari**, he fet el següent:  
+
+- He premut **Shift + una tecla qualsevol** durant l’arrencada.  
+- Això ha reiniciat la màquina i m’ha portat al **menú inicial de GRUB**.  
+- Des d’aquí he escollit l’opció **Advanced** per continuar amb els passos de recuperació.
+
+
+
+
