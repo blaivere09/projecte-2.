@@ -43,3 +43,4 @@ Ja he entrat a la **màquina virtual**, però com no conec la **contrasenya de l
 
 
 
+
