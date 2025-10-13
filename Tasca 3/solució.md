@@ -70,6 +70,8 @@ Un cop canviada la **contrasenya**:
 - He comprovat que la **nova contrasenya funciona correctament**.  
 - Ara ja podem accedir al sistema i continuar amb la resta de tasques sense problemes.
 
+![captura9](img/capt9.png)
+
 
 
 
