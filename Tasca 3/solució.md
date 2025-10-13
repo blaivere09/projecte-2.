@@ -27,6 +27,8 @@ Ja he entrat a la **màquina virtual**, però com no conec la **contrasenya de l
 - Des d’aquí he escollit l’opció **Advanced** per continuar amb els passos de recuperació.
 
 ![captura3](img/capt3.png)
+![captura4](img/capt4.png)
+
 
 
 
