@@ -44,4 +44,4 @@ Per evitar que una acció catastròfica pugui danyar l’equip original, ens han
 
 > 💡 **Tip:** Treballa sempre sobre la còpia del disc clonat i no sobre l’equip original per evitar problemes.  
 
-![Captura1](capt1.png)
+![Captura1](img/capt1.png)
