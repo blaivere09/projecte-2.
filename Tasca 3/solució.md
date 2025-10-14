@@ -103,21 +103,7 @@ EOF
 
 ---
 
-### ⚠️ Avís de seguretat
 
-Aquest exemple **posa contrasenyes en text pla** dins de la configuració de GRUB. *No és segur publicar ni conservar contrasenyes en clar.* 🔒
-És **molt recomanable** utilitzar `grub-mkpasswd-pbkdf2` per generar **hashes PBKDF2** i afegir `password_pbkdf2` al lloc de `password`.
-
----
-
-### ✅ Exemple segur (recomanat)
-
-1. Genera el hash per cada usuari:
-
-```bash
-sudo grub-mkpasswd-pbkdf2
-# et demanarà la contrasenya i mostrarà una línia com:
-# PBKDF2 hash of your password is grub.pbkdf2.sha512.10000.<HASH_AQUÍ>
 ```
 
 2. Afegeix els hashes al fitxer:
@@ -129,6 +115,7 @@ password_pbkdf2 miquel grub.pbkdf2.sha512.10000.<HASH_MIQUEL>
 ```
 
 ---
+
 
 
 
