@@ -104,17 +104,8 @@ EOF
 ---
 
 
-```
-
-2. Afegeix els hashes al fitxer:
-
-```bash
-set superusers="root,miquel"
-password_pbkdf2 root grub.pbkdf2.sha512.10000.<HASH_ROOT>
-password_pbkdf2 miquel grub.pbkdf2.sha512.10000.<HASH_MIQUEL>
-```
-
 ---
+
 
 
 
