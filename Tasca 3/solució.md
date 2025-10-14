@@ -101,11 +101,8 @@ password miquel 4321
 EOF
 ```
 
----
-
-
----
 ![captura13](img/capt12.png)
+
 
 
 
