@@ -81,6 +81,7 @@ Vulnerar l'accés del **GRUB** del Linux —amb l'objectiu que només personal a
 sudo nano /etc/grub.d/40_custom
 
 ```
+![captura11](img/capt11.png)
 
 
 
