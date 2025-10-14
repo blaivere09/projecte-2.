@@ -123,6 +123,7 @@ He obert un **bloc de notes** on he copiat i enganxat la meva contrasenya des de
 Acte seguit, he tornat a obrir el bloc de notes i he enganxat la contrasenya que prèviament tenia al bloc de notes.
 
 ![captura14](img/capt14.png)
+![captura15](img/capt15.png)
 
 
 
