@@ -117,6 +117,11 @@ i he posat la contrasenya de **ROOT** i la d'usuari **MIQUEL** per obtenir el ha
 ![captura13](img/capt13.png)
 
 
+# PAS 9 📝
+
+He obert un **bloc de notes** on he copiat i enganxat la meva contrasenya des de la terminal.
+Acte seguit, he tornat a obrir el bloc de notes i he enganxat la contrasenya que prèviament tenia al bloc de notes.
+
 
 
 
