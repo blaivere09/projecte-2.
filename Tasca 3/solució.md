@@ -83,6 +83,54 @@ sudo nano /etc/grub.d/40_custom
 ```
 ![captura11](img/capt11.png)
 
+# PAS 7 🧭
+
+He entrat a la terminal des de la màquina virtual i he executat:
+
+```bash
+sudo nano /etc/grub.d/00_header
+```
+
+Acte seguit he posat això dins del fitxer (exemple escrit amb `cat << EOF`):
+
+```bash
+cat << EOF
+set superusers="root,miquel"
+password root 1234
+password miquel 4321
+EOF
+```
+
+---
+
+### ⚠️ Avís de seguretat
+
+Aquest exemple **posa contrasenyes en text pla** dins de la configuració de GRUB. *No és segur publicar ni conservar contrasenyes en clar.* 🔒
+És **molt recomanable** utilitzar `grub-mkpasswd-pbkdf2` per generar **hashes PBKDF2** i afegir `password_pbkdf2` al lloc de `password`.
+
+---
+
+### ✅ Exemple segur (recomanat)
+
+1. Genera el hash per cada usuari:
+
+```bash
+sudo grub-mkpasswd-pbkdf2
+# et demanarà la contrasenya i mostrarà una línia com:
+# PBKDF2 hash of your password is grub.pbkdf2.sha512.10000.<HASH_AQUÍ>
+```
+
+2. Afegeix els hashes al fitxer:
+
+```bash
+set superusers="root,miquel"
+password_pbkdf2 root grub.pbkdf2.sha512.10000.<HASH_ROOT>
+password_pbkdf2 miquel grub.pbkdf2.sha512.10000.<HASH_MIQUEL>
+```
+
+---
+
+
 
 
 
