@@ -104,6 +104,17 @@ EOF
 ![captura13](img/capt12.png)
 
 
+# PAS 8 🔐
+
+Acte seguit he fet:
+
+```bash
+sudo grub-mkpasswd-pbkdf2
+```
+
+i he posat la contrasenya de **ROOT** i la d'usuari **MIQUEL** per obtenir el hash.
+
+![captura13](img/capt13.png)
 
 
 
