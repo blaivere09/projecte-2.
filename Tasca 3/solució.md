@@ -105,7 +105,8 @@ EOF
 
 
 ---
-![captura13](img/capt13.png)
+![captura13](img/capt12.png)
+
 
 
 
