@@ -13,7 +13,7 @@ Primer he creat una **màquina virtual nova** al **VirtualBox**.
 - També hi he connectat el **disc virtual** que ens havien proporcionat per treballar-hi.  
 
 ✅ Amb això ja he pogut encendre la màquina i començar a seguir els passos per **recuperar la contrasenya**.
-
+---
 
 ![captura2](img/capt2.png)
 
@@ -25,6 +25,7 @@ Ja he entrat a la **màquina virtual**, però com no conec la **contrasenya de l
 - He premut **Shift + una tecla qualsevol** durant l’arrencada.  
 - Això ha reiniciat la màquina i m’ha portat al **menú inicial de GRUB**.  
 - Des d’aquí he escollit l’opció **Advanced** per continuar amb els passos de recuperació.
+---
 
 ![captura3](img/capt3.png)
 ![captura4](img/capt4.png)
@@ -34,6 +35,8 @@ Ja he entrat a la **màquina virtual**, però com no conec la **contrasenya de l
 
 - Un cop seleccionada l’opció **Advanced** al menú de GRUB, he escollit la **segona opció**, que m’ha portat a un altre menú.  
 - Des d’aquest nou menú he seleccionat l’opció **Root** per obtenir accés al sistema com a administrador.
+
+---
 
 ![captura5](img/capt5.png)
 ![captura6](img/capt6.png)
@@ -57,6 +60,7 @@ Acte seguit, l'he **repetit** per confirmar el canvi.
 ```bash
 passwd miquel
 ```
+---
 
 ![captura8](img/capt8.png)
 
@@ -70,6 +74,8 @@ Un cop canviada la **contrasenya**:
 - He comprovat que la **nova contrasenya funciona correctament**.  
 - Ara ja podem accedir al sistema i continuar amb la resta de tasques sense problemes.
 
+  ---
+
 ![captura9](img/capt9.png)
 
 
@@ -81,6 +87,7 @@ Vulnerar l'accés del **GRUB** del Linux —amb l'objectiu que només personal a
 sudo nano /etc/grub.d/40_custom
 
 ```
+---
 ![captura11](img/capt11.png)
 
 # PAS 7 🧭
@@ -100,7 +107,7 @@ password root 1234
 password miquel 4321
 EOF
 ```
-
+---
 ![captura13](img/capt12.png)
 
 
@@ -114,6 +121,8 @@ sudo grub-mkpasswd-pbkdf2
 
 i he posat la contrasenya de **ROOT** i la d'usuari **MIQUEL** per obtenir el hash.
 
+---
+
 ![captura13](img/capt13.png)
 
 
@@ -121,6 +130,8 @@ i he posat la contrasenya de **ROOT** i la d'usuari **MIQUEL** per obtenir el ha
 
 He obert un **bloc de notes** on he copiat i enganxat la meva contrasenya des de la terminal.
 Acte seguit, he tornat a obrir el bloc de notes i he enganxat la contrasenya que prèviament tenia al bloc de notes.
+
+---
 
 ![captura14](img/capt14.png)
 ![captura15](img/capt15.png)
@@ -138,6 +149,7 @@ Si cal, també puc **modificar o canviar** la contrasenya/usuari des d’aquí �
 ---
 
 ![captura16](img/capt16.png)
+
 
 
 
