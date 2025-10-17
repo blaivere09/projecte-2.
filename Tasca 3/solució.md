@@ -127,7 +127,7 @@ Acte seguit, he tornat a obrir el bloc de notes i he enganxat la contrasenya que
 
 
 
-### 🔟 PAS 10: Tornar a entrar a la màquina 💻
+# PAS 10: Tornar a entrar a la màquina 💻
 
 He tornat a **entrar a la màquina** prement **`SHIFT + CLICK`** 🖱️  
 Ara el sistema em **demana un usuari i una contrasenya** 🔐  
@@ -143,6 +143,7 @@ Si cal, també puc **modificar o canviar** la contrasenya/usuari des d’aquí �
 3. Si cal, **canvia o actualitza** les credencials.  
 
 💡 *Aquest pas confirma que la màquina reconeix correctament el teu usuari!*
+
 
 
 
