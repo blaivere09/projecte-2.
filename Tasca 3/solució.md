@@ -3,6 +3,11 @@
 Aquí trobaràs la **solució de la tasca 03 (T03)**:  
 **Seguretat Lògica — Recuperant accés a sistemes.**
 
+
+
+
+
+
 ## 🟢 PAS 1: Creació de la màquina virtual
 
 Primer he creat una **màquina virtual nova** al **VirtualBox**.  
@@ -151,6 +156,7 @@ Si cal, també puc **modificar o canviar** la contrasenya/usuari des d’aquí �
 ![captura16](img/capt16.png)
 
 ![captura17](img/capt17.png)
+
 
 
 
