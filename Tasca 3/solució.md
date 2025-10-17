@@ -137,6 +137,7 @@ Si cal, també puc **modificar o canviar** la contrasenya/usuari des d’aquí �
 
 ---
 
+![captura16](img/capt16.png)
 
 
 
