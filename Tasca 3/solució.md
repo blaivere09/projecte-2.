@@ -5,7 +5,7 @@ Aquí trobaràs la **solució de la tasca 03 (T03)**:
 
 
 
-
+---
 
 
 ## 🟢 PAS 1: Creació de la màquina virtual
@@ -156,6 +156,7 @@ Si cal, també puc **modificar o canviar** la contrasenya/usuari des d’aquí �
 ![captura16](img/capt16.png)
 
 ![captura17](img/capt17.png)
+
 
 
 
